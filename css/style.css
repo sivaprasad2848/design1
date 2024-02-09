@@ -1,0 +1,25 @@
+.header{
+    height:100vh;
+    background-color: #5e467a;
+    background-image: url("../images/bs.jpg");
+    
+    z-index:3;
+    
+
+}
+.header .menu{
+    height:100px;
+    background-color: black;
+    z-index:3;
+    
+}
+
+.welcome{}
+.projects{}
+.pricing{}
+.team{}
+.life{}
+.news{}
+.blog{}
+.contact{}
+.footer{}
